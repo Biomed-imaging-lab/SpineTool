@@ -1,7 +1,7 @@
 
 ![GitHub language count](https://img.shields.io/github/languages/top/Biomed-imaging-lab/SpineTool?style=for-the-badge)
 [![GNU License](https://img.shields.io/github/license/Biomed-imaging-lab/SpineTool.svg?style=for-the-badge)](https://github.com/Biomed-imaging-lab/SpineTool/blob/main/LICENSE)
-[![Platform](https://img.shields.io/badge/OS-_Windiws-blue?style=for-the-badge)]()
+[![Platform](https://img.shields.io/badge/OS-_Windows-blue?style=for-the-badge)]()
 [![Language](https://img.shields.io/badge/python_version-_3.8-green?style=for-the-badge)]()
 [![Language](https://img.shields.io/badge/Anaconda-%E2%89%A5_2022.10-green?style=for-the-badge)]()
 [![Issues](https://img.shields.io/github/issues/Biomed-imaging-lab/SpineTool?style=for-the-badge)](https://github.com/Biomed-imaging-lab/SpineTool/issues)
@@ -23,7 +23,12 @@
     <a href="https://doi.org/10.1038/s41598-023-37406-4"><strong> Explore the research paper »</strong></a>
     <br />
     <br />
-    <a href="#Citation">Cite</a>
+    <a href="https://doi.org/10.1002/cpz1.70061"><strong> Explore the methodological paper »</strong></a>
+    <br />
+    <br />
+    <a href="https://www.nature.com/articles/s41598-023-37406-4#citeas">Cite the research</a>
+    .
+    <a href="https://currentprotocols.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fcpz1.70061">Cite the methodology</a>
     ·
     <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-023-37406-4/MediaObjects/41598_2023_37406_MOESM1_ESM.pdf">Read Tutorial</a>
     ·
